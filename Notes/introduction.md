@@ -1,6 +1,5 @@
-<h>
-What is Machine Learning?
-</h>
+<h>What is Machine Learning?</h>
+<p>
 >Machine learning (ML) is a way to train software, called a model, to make predictions or generate content using data.
 
 >ML systems can be categorized as supervised, unsupervised, reinforcement, or generative AI, each learning differently.
@@ -10,6 +9,7 @@ What is Machine Learning?
 >Unsupervised learning identifies patterns in unlabeled data, commonly using clustering to group similar data points.
 
 >Generative AI creates new content, such as text, images, or music, by learning patterns from existing data and mimicking them.
+</p>
 
 In basic terms, ML is the process of training a piece of software, called a model, to make useful predictions or generate content (like text, images, audio, or video) from data. 
 
